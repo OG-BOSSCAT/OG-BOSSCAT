@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OG-BOSSCAT
-- 👀 I’m interested in ...Localization, indie game development, manga, Vtubers.
-- 🌱 I’m currently learning ...Git and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Localization, indie game development, manga, Vtubers.
+- 🌱 I’m currently learning HTML(again), HTML5, CSS, Java, Git, Python, C++, and C#
+- 💞️ I’m looking to collaborate on indie games!
+- 📫 Feel free to DM me!
 
 <!---
 OG-BOSSCAT/OG-BOSSCAT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
